@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: frame.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+Database file #1: MyBib.bib
+Name 1 in "J.D. Lafferty, A. McCallum, and F.C.N. Pereira" has a comma at the end for entry lafferty
+while executing---line 1185 of file alpha.bst
+Name 1 in "J.D. Lafferty, A. McCallum, and F.C.N. Pereira" has a comma at the end for entry lafferty
+while executing---line 1185 of file alpha.bst
+Warning--empty publisher in aamodt
+Warning--empty publisher in bennetot
+Warning--empty publisher in aleja
+Warning--empty publisher in byrne
+Warning--empty publisher in arvind
+Warning--empty publisher in sangdeh
+Warning--empty publisher in hall
+Warning--empty publisher in joshua
+Warning--empty publisher in einhorn
+Name 1 in "J.D. Lafferty, A. McCallum, and F.C.N. Pereira" has a comma at the end for entry lafferty
+while executing---line 1250 of file alpha.bst
+Warning--empty publisher in lafferty
+Warning--empty publisher in leslie
+Warning--empty publisher in lipton
+Warning--empty publisher in ribeiro
+Warning--empty publisher in ribeiromt
+Warning--empty publisher in papernot
+Warning--empty publisher in rossi
+Warning--empty publisher in hoffmann
+Warning--empty publisher in mishra
+Warning--empty publisher in mohseni
+Warning--empty publisher in zhang
+You've used 41 entries,
+            2543 wiz_defined-function locations,
+            715 strings with 9540 characters,
+and the built_in function-call counts, 11056 in all, are:
+= -- 929
+> -- 339
+< -- 40
++ -- 96
+- -- 86
+* -- 581
+:= -- 1854
+add.period$ -- 123
+call.type$ -- 41
+change.case$ -- 165
+chr.to.int$ -- 38
+cite$ -- 61
+duplicate$ -- 655
+empty$ -- 1026
+format.name$ -- 139
+if$ -- 2248
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 82
+newline$ -- 208
+num.names$ -- 123
+pop$ -- 361
+preamble$ -- 1
+purify$ -- 247
+quote$ -- 0
+skip$ -- 436
+stack$ -- 0
+substring$ -- 294
+swap$ -- 41
+text.length$ -- 40
+text.prefix$ -- 12
+top$ -- 0
+type$ -- 164
+warning$ -- 20
+while$ -- 83
+width$ -- 45
+write$ -- 474
+(There were 3 error messages)

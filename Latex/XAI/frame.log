@@ -1,0 +1,635 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.5)  15 JAN 2021 17:35
+entering extended mode
+**./frame.tex
+(frame.tex
+LaTeX2e <2020-10-01> patch level 3
+L3 programming layer <2020-12-07> xparse <2020-03-03> (scrbook.cls
+Document Class: scrbook 1999/12/29 v2.5h LaTeX2e KOMA document class
+("C:\Program Files\MiKTeX\tex/latex/base\bk11.clo"
+File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+) (typearea.sty
+Package: typearea 1999/12/29 v2.5h LaTeX2e KOMA package
+
+Package: typearea, Copyright (C) Frank Neukam, 1992-1994 
+                   Copyright (C) Markus Kohm, 1994-1999
+\ta@bcor=\dimen138
+\ta@div=\count177
+\ta@hblk=\dimen139
+\ta@vblk=\dimen140
+\ta@temp=\dimen141
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 13
+(typearea)             BCOR = 42.67912pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 426.7914pt
+(typearea)              DIV-departure   = -8/100
+(typearea)              \evensidemargin = 13.08829pt
+(typearea)              \oddsidemargin  = 13.08827pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 650.20029pt
+(typearea)              \topmargin      = -44.6664pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 502.
+)
+\c@part=\count178
+\c@chapter=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen142
+) (mmiSeminar.sty
+Package: mmiSeminar 
+ ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/12/16 3.52 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count187
+\U@D=\dimen143
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count188
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2020/07/21 v2.12 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2020/07/21 v2.12 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 121.
+)))
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (version.sty)
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlayer-scrpage.s
+ty
+Package: scrlayer-scrpage 2020/09/21 v3.32 KOMA-Script package (end user interf
+ace for scrlayer)
+ (C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlayer.sty
+Package: scrlayer 2020/09/21 v3.32 KOMA-Script package (defining layers and pag
+e styles)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+)))))
+\footheight=\skip49
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 211
+6.
+))
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=standard'.
+\todoboxraise=\skip50
+\todoboxheight=\skip51
+\timelinewidth=\skip52
+\mylabellen=\skip53
+\remainlabellen=\skip54
+\c@definition=\count189
+\c@theorem=\count190
+\c@axiom=\count191
+\c@lemma=\count192
+\c@proof=\count193
+\rwthlength=\skip55
+
+Package scrlayer-scrpage Warning: Command \deftripstyle is deprecate.
+(scrlayer-scrpage)                You should replace it by \deftriplepagestyle,
+
+(scrlayer-scrpage)                e.g., on input line 440.
+
+) (iso8859-1.sty
+Package: iso8859-1 1998/08/01 ISO 8859-1 support
+ (iso8859-1.tex))
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen146
+))
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks17
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks18
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks19
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen155
+\captionmargin@=\dimen156
+\captionwidth=\dimen157
+\caption@tempdima=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {{\capfont {\caplabelfont #1\captionformat }\capfont #2}}\if
+dim \wd \@tempboxa >\hsize \ifdofullc@p {\capfont \@hangfrom {{\caplabelfont #1
+\captionformat }}{#2\par }} \else \ifdim \cap@indent <\z@ {\capfont {\caplabelf
+ont #1\captionformat \par }\noindent \hspace *{-\cap@indent }#2\par } \else \if
+dim \cap@indent <\hsize {\capfont \@hangfrom {\hspace *{\cap@indent }}{\hspace 
+{-\cap@indent }{\caplabelfont #1\captionformat }#2\par }} \else {\capfont {\cap
+labelfont #1\captionformat \par }\noindent \@hangfrom {\setlength {\@tempdima }
+{\cap@indent }\addtolength {\@tempdima }{-\hsize }\hspace *{\@tempdima }}{#2\pa
+r }} \fi \fi \fi \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tem
+pboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
+)
+\c@KVtest=\count274
+\sf@farskip=\skip59
+\sf@captopadj=\dimen162
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count275
+\c@subfigure@save=\count276
+\c@lofdepth=\count277
+\c@subtable=\count278
+\c@subtable@save=\count279
+\c@lotdepth=\count280
+\sf@top=\skip62
+\sf@bottom=\skip63
+) (C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/latex-tools\array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen163
+\ar@mcellbox=\box49
+\extrarowheight=\dimen164
+\NC@list=\toks21
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box50
+)
+\rotheadsize=\dimen165
+\c@nlinenum=\count281
+\TeXr@lab=\toks22
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+2.
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count282
+\l__pdf_internal_box=\box51
+) (frame.aux
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+
+LaTeX Warning: Label `fig:Testbild' multiply defined.
+
+)
+\openout1 = `frame.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count283
+\scratchdimen=\dimen166
+\scratchbox=\box52
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen167
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks24
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package scrlayer Info: Setting magic \footheight to \baselineskip while
+(scrlayer)             \begin{document} on input line 12.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(MyText.tex
+Seminar MMI \\A Survey on Explainable Artificial Intelligence
+[1
+
+
+{C:/Users/shens/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
+2.
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+<bilder/Figure_1.png, id=8, 1435.61343pt x 708.39656pt>
+File: bilder/Figure_1.png Graphic file (type png)
+<use bilder/Figure_1.png>
+Package pdftex.def Info: bilder/Figure_1.png  used on input line 31.
+(pdftex.def)             Requested size: 426.7914pt x 210.59656pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
+9.
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 45
+.
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+) [2
+
+ <./bilder/Figure_1.png>]
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 27.2pt needed,
+(scrlayer-scrpage)                but only 17.0pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting typearea's option
+(scrlayer-scrpage)                `headheight=27.2pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 6
+0.
+
+
+Overfull \vbox (10.2pt too high) has occurred while \output is active []
+
+ [3]
+<bilder/Figure_2.png, id=19, 941.01563pt x 369.63094pt>
+File: bilder/Figure_2.png Graphic file (type png)
+<use bilder/Figure_2.png>
+Package pdftex.def Info: bilder/Figure_2.png  used on input line 82.
+(pdftex.def)             Requested size: 426.7914pt x 167.64088pt.
+
+[4]
+<bilder/Figure_3.png, id=23, 901.11656pt x 180.675pt>
+File: bilder/Figure_3.png Graphic file (type png)
+<use bilder/Figure_3.png>
+Package pdftex.def Info: bilder/Figure_3.png  used on input line 100.
+(pdftex.def)             Requested size: 426.7914pt x 85.57338pt.
+
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+ [5 <./bilder/Figure_2.png>] [6 <./bilder/Figure_3.png>]
+<bilder/Figure_4.png, id=32, 914.66719pt x 444.91219pt>
+File: bilder/Figure_4.png Graphic file (type png)
+<use bilder/Figure_4.png>
+Package pdftex.def Info: bilder/Figure_4.png  used on input line 123.
+(pdftex.def)             Requested size: 426.7914pt x 207.60164pt.
+ [7 <./bilder/Figure_4.png>]
+[8]
+<bilder/Figure_5.png, id=41, 1181.91562pt x 317.68687pt>
+File: bilder/Figure_5.png Graphic file (type png)
+<use bilder/Figure_5.png>
+Package pdftex.def Info: bilder/Figure_5.png  used on input line 155.
+(pdftex.def)             Requested size: 298.75267pt x 80.2989pt.
+ [9 <./bilder/Figure_5.png>]
+Overfull \hbox (49.70123pt too wide) in paragraph at lines 166--185
+ [] 
+ []
+
+<bilder/Figure_6.png, id=46, 837.88031pt x 454.69875pt>
+File: bilder/Figure_6.png Graphic file (type png)
+<use bilder/Figure_6.png>
+Package pdftex.def Info: bilder/Figure_6.png  used on input line 194.
+(pdftex.def)             Requested size: 213.39569pt x 115.80441pt.
+[10] [11 <./bilder/Figure_6.png>]
+<bilder/Figure_7.png, id=63, 709.90219pt x 461.47406pt>
+File: bilder/Figure_7.png Graphic file (type png)
+<use bilder/Figure_7.png>
+Package pdftex.def Info: bilder/Figure_7.png  used on input line 227.
+(pdftex.def)             Requested size: 213.39569pt x 138.7179pt.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
+32.
+
+(C:\Users\shens\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 232.
+
+
+LaTeX Warning: Command \l invalid in math mode on input line 232.
+
+
+Underfull \vbox (badness 1168) has occurred while \output is active []
+
+ [12 <./bilder/Figure_7.png>] [13] [14]
+<bilder/Figure_8.png, id=76, 1454.43375pt x 849.1725pt>
+File: bilder/Figure_8.png Graphic file (type png)
+<use bilder/Figure_8.png>
+Package pdftex.def Info: bilder/Figure_8.png  used on input line 272.
+(pdftex.def)             Requested size: 426.7914pt x 249.18207pt.
+ [15 <./bilder/Figure_8.png>]) (frame.bbl [16]
+[17]) [18] (frame.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7992 strings out of 479624
+ 153874 string characters out of 2874984
+ 483862 words of memory out of 3000000
+ 25006 multiletter control sequences out of 15000+200000
+ 427652 words of font info for 74 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 134i,20n,130p,1393b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
+iles/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.p
+fb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on frame.pdf (18 pages, 1062301 bytes).
+PDF statistics:
+ 138 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

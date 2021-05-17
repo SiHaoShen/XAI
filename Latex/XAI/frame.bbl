@@ -1,0 +1,236 @@
+\begin{thebibliography}{MTR16b}
+
+\bibitem[AA94]{aamodt}
+E.~Plaza A.~Aamodt.
+\newblock {\em Case-based reasoning: Foundational issues, Methodological
+  Variations, and System Approaches}.
+\newblock 1994.
+
+\bibitem[AA18]{andreou}
+Goga et~al A.~Andreou, G.~Venkatadri.
+\newblock {\em Investigating Ad Transparency Mechanisms in Social Media: A Case
+  Study of Facebooks Explanations}.
+\newblock Proceedings of the 24th Network and Distributed System Security
+  Symposium (NDSS), 2018.
+
+\bibitem[AB19]{bennetot}
+R.~Chatila et~al A.~Bennetot, J.-L.~Laurent.
+\newblock {\em Towards explainable neural-symbolic visual reasoning}.
+\newblock 2019.
+
+\bibitem[ABA19]{aleja}
+Natalia Díaz-Rodríguez et~al Alejandro Barredo~Arrieta.
+\newblock {\em Explainable artificial intelligence (xai): Concepts, taxonomies,
+  opportunities and challenges toward responsible ai}.
+\newblock 2019.
+
+\bibitem[AP11]{pierrot}
+Y.~Goude A.~Pierrot.
+\newblock {\em Short-term electricity load forecasting with generalized
+  additive models}.
+\newblock 16th Intelligent System Applications to Power Systems Conference,
+  ISAP 2011, IEEE, 2011.
+
+\bibitem[ARC96]{cassandra}
+J.~A.~Kurien A.~R.~Cassandra, L. P.~Kaelbling.
+\newblock {\em Acting under uncertainty: Discrete bayesian models for
+  mobile-robot navigation}.
+\newblock Proceedings of IEEE/RSJ International Conference on Intelligent
+  Robots and Systems, 1996.
+
+\bibitem[Byr19]{byrne}
+R.~M.~J. Byrne.
+\newblock {\em Counterfactuals in explainable artificial intelligence (XAI):
+  Evidence from human reasoning}.
+\newblock 2019.
+
+\bibitem[Car00]{caruanar}
+R.~Caruana.
+\newblock {\em Case-based explanation for artificial neural nets}.
+\newblock Artificial Neural Networks in Medicine and Biology, 2000.
+
+\bibitem[Chr20]{arvind}
+Brian Christian.
+\newblock {\em The Alignment Problem: How Can Machines Learn Human Values?}
+\newblock 2020.
+
+\bibitem[ea19]{sangdeh}
+Poursabzi-Sangdeh et~al.
+\newblock {\em Manipulating and Measuring Model Interpretability}.
+\newblock 2019.
+
+\bibitem[EU20]{eu}
+EU.
+\newblock {\em EU high Level Group AI principles}.
+\newblock
+  https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai,
+  2020.
+
+\bibitem[Goo20]{google}
+Google.
+\newblock {\em Google AI principles}.
+\newblock https://www.blog.google/technology/ai/ai-principles/, 2020.
+
+\bibitem[Gun17]{darpa}
+David Gunning.
+\newblock {\em Explainable {A}rtificial {I}ntelligence {X}{A}{I}}.
+\newblock Defense Advanced Research Projects Agency (DARPA), 2017.
+
+\bibitem[Hal18]{hall}
+P.~Hall.
+\newblock {\em On the Art and Science of Machine Learning Explanations}.
+\newblock 2018.
+
+\bibitem[JBT17]{joshua}
+Samuel J Gershman et~al Joshua B~Tenenbaum, Tomer D~Ullman.
+\newblock {\em Building machines that learn and think like people. Behavioral
+  and brain sciences}.
+\newblock 2017.
+
+\bibitem[J.E72]{einhorn}
+Hillel J.Einhorn.
+\newblock {\em Expert measurement and mechanical combination}.
+\newblock 1972.
+
+\bibitem[JLP01]{lafferty}
+A.~McCallum J.D.~Lafferty and F.C.N. Pereira.
+\newblock {\em Conditional random fields: Probabilistic models for segmenting
+  and labeling sequence data}.
+\newblock 2001.
+
+\bibitem[KX15]{xu}
+R.~Kiros et~al K.~Xu, J.~Ba.
+\newblock {\em Show, attend and tell: Neural image caption generation with
+  visual attention}.
+\newblock International Conference on Machine Learning, 2015.
+
+\bibitem[Les19]{leslie}
+D.~Leslie.
+\newblock {\em Understanding artificial intelligence ethics and safety}.
+\newblock 2019.
+
+\bibitem[Lip18]{lipton}
+Z.~C. Lipton.
+\newblock {\em The mythos of model interpretability}.
+\newblock 2018.
+
+\bibitem[LL04]{lli}
+P.~Terry et~al L.~Li, D. M.~Umbach.
+\newblock {\em Application of the GA/KNN method to SELDI proteomics data}.
+\newblock Bioinformatics 20, 2004.
+
+\bibitem[Mic20]{microsoft}
+Microsoft.
+\newblock {\em Microsoft AI principles}.
+\newblock https://www.blog.google/technology/ai/ai-principles/ Microsoft AI
+  principles, 2020.
+
+\bibitem[MTR16a]{ribeiro}
+C.~Guestrin M.~T.~Ribeiro, S.~Singh.
+\newblock {\em Model-agnostic interpretability of machine learning}.
+\newblock 2016.
+
+\bibitem[MTR16b]{ribeiromt}
+C.~Guestrin M.~T.~Ribeiro, S.~Singh.
+\newblock {\em Nothing else matters: Model-agnostic explanations by identifying
+  prediction invariance}.
+\newblock 2016.
+
+\bibitem[MTR16c]{ribeiros}
+C.~Guestrin M.~T.~Ribeiro, S.~Singh.
+\newblock {\em Why should I trust you?: Explaining the predictions of any
+  classifier}.
+\newblock ACM SIGKDD International Conference on Knowledge Discovery and Data
+  Mining, 2016.
+
+\bibitem[NP18]{papernot}
+P.~McDaniel N.~Papernot.
+\newblock {\em Deep k-nearest neighbors: Towards confident, interpretable and
+  robust deep learning}.
+\newblock 2018.
+
+\bibitem[PC11]{cortez}
+M.~J.~Embrechts P.~Cortez.
+\newblock {\em Opening black box data mining models using sensitivity
+  analysis}.
+\newblock IEEE Symposium on Computational Intelligence and Data Mining (CIDM),
+  2011.
+
+\bibitem[PL95]{langley}
+H.~A.~Simon P.~Langley.
+\newblock {\em Applications of machine learning and rule induction}.
+\newblock Communications of the ACM 38, 1995.
+
+\bibitem[RC15]{caruana}
+J.~Gehrke et~al R.~Caruana, Y.~Lou.
+\newblock {\em Intelligible models for healthcare: Predicting pneumonia risk
+  and hospital 30-day readmission}.
+\newblock Proceedings of the 21th ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining, 2015.
+
+\bibitem[RG18]{guidotti}
+A.~Monreale et~al R.~Guidotti.
+\newblock {\em A survey of methods for explaining black box models}.
+\newblock ACM Computing Surveys 51, 2018.
+
+\bibitem[RK08]{konig}
+L.~Niklasson R.~Konig, U.~Johansson.
+\newblock {\em A versatile framework for evolutionary data mining}.
+\newblock IEEE International Conference on Data Mining Workshops, 2008.
+
+\bibitem[Ros19]{rossi}
+F.~Rossi.
+\newblock {\em AI Ethics for Enterprise AI}.
+\newblock 2019.
+
+\bibitem[RRH18]{hoffmann}
+G.~Klein et~al R.~R.~Hoffman, S. T.~Mueller.
+\newblock {\em Metrics for explainable ai: Challenges and prospects}.
+\newblock 2018.
+
+\bibitem[SM17]{mishra}
+S.~Dixon S.~Mishra, B. L.~Sturm.
+\newblock {\em Local interpretable model-agnostic explanations for music
+  content analysis}.
+\newblock 2017.
+
+\bibitem[SM18]{mohseni}
+E.~D.~Ragan S.~Mohseni, N.~Zarei.
+\newblock {\em A multidisciplinary survey and framework for design and
+  evaluation of explainable ai systems}.
+\newblock 2018.
+
+\bibitem[SML17]{lunberg}
+S.-I.~Lee S.~M.~Lundberg.
+\newblock {\em A unified approach to interpreting model predictions}.
+\newblock Advances in Neural Information Processing Systems, 2017.
+
+\bibitem[SW17]{wachter}
+L.~Floridi S.~Wachter, B.~Mittelstadt.
+\newblock {\em Why a right to explanation of automated decision-making does not
+  exist in the general data protection regulation}.
+\newblock International Data Privacy Law 7, 2017.
+
+\bibitem[UJ04a]{johansson}
+R.~König U.~Johansson, L.~Niklasson.
+\newblock {\em Accuracy vs. comprehensibility in data mining models}.
+\newblock Proceedings of the seventh international conference on information
+  fusion, 2004.
+
+\bibitem[UJ04b]{johanssonu}
+R.~König U.~Johansson, L.~Niklasson.
+\newblock {\em The truth is in there-rule extraction from opaque models using
+  genetic programming}.
+\newblock FLAIRS Conference, 2004.
+
+\bibitem[WHJ13]{hosmer}
+R.~X.~Sturdivant W.~Hosmer~Jr, S.~Lemeshow.
+\newblock {\em Applied logistic regression}.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem[YZ17]{zhang}
+et~al Yu~Zhang, Sarath~Sreedharan.
+\newblock {\em Plan Explicability and Predictability for Robot Task Planning}.
+\newblock 2017.
+
+\end{thebibliography}
